@@ -19,7 +19,6 @@ PHP v5.2 or higher
 <h2>Script images</h2>
 <img src="http://a.top4top.net/i_bc45fc29742.png" alt="cmblogheader">
 
-<img src="https://e.top4top.net/i_bc45fc29741.png" alt="cmblogfooter"> 
 
 <h2>License</h2>
 
