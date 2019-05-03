@@ -13,7 +13,7 @@ PHP v5.2 or higher
 
 1 - Unzip the downloaded file. <br />
 2 - Upload all files to your hosting or local server via FTP, Shell, Cpanel, others. <br />
-3 - With your browser, go to the URL of your web. Example: www.domain-name.com/install
+3 - With your browser, go to the URL of your web. Example: www.domain-name.com/install <br />
 4 - Complete the form
 
 <h2>Script images</h2>
